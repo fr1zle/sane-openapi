@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+.idea/
+*.iml
+out/
+bin/
+build/
+target/
+
+>>>>>>> initial project files
 # Compiled class file
 *.class
 
